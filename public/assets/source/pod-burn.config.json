@@ -1,0 +1,1 @@
+{"sample_rate": 44100, "channels": "stereo", "max_duration_ms": 850, "seed": 21, "actions": "/work/assets/source/pod-burn.ops.json", "preview": "/tmp/pod-burn.png", "wav": "/work/assets/audio/pod-burn.wav"}

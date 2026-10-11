@@ -1,0 +1,1 @@
+{"sample_rate": 44100, "channels": "stereo", "max_duration_ms": 1050, "seed": 21, "actions": "/work/assets/source/ball-lost.ops.json", "preview": "/tmp/ball-lost.png", "wav": "/work/assets/audio/ball-lost.wav"}

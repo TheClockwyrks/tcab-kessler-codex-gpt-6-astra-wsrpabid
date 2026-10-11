@@ -1,0 +1,1 @@
+{"sample_rate": 44100, "channels": "stereo", "max_duration_ms": 750, "seed": 21, "actions": "/work/assets/source/shield-reflect.ops.json", "preview": "/tmp/shield-reflect.png", "wav": "/work/assets/audio/shield-reflect.wav"}

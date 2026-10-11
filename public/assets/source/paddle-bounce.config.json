@@ -1,0 +1,1 @@
+{"sample_rate": 44100, "channels": "stereo", "max_duration_ms": 490, "seed": 21, "actions": "/work/assets/source/paddle-bounce.ops.json", "preview": "/tmp/paddle-bounce.png", "wav": "/work/assets/audio/paddle-bounce.wav"}
