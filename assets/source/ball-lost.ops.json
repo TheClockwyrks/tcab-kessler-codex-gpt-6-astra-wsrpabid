@@ -1,0 +1,65 @@
+[
+  {
+    "op": "add_voice",
+    "name": "glass",
+    "wave": "sine",
+    "freq": 220.0,
+    "gain": -13.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 650.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "glass",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "set_pitch",
+    "voice": "glass",
+    "slide_to_hz": 40.0,
+    "over_ms": 650.0
+  },
+  {
+    "op": "add_voice",
+    "name": "metal",
+    "wave": "triangle",
+    "freq": 600.6,
+    "gain": -24.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 390.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "metal",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "add_voice",
+    "name": "debris",
+    "wave": "noise",
+    "freq": 440.0,
+    "gain": -25.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 487.5
+  },
+  {
+    "op": "set_envelope",
+    "voice": "debris",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  }
+]

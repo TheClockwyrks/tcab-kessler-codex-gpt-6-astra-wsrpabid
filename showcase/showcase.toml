@@ -1,0 +1,11 @@
+[[media]]
+file = "orbital-sweep.json.gz"
+name = "Three balls, one fragile world"
+
+[[media]]
+file = "live.png"
+name = "Demolition in the outer rings"
+
+[[media]]
+file = "title.png"
+name = "Welcome to orbital recovery"
